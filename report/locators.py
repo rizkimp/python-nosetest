@@ -1,0 +1,26 @@
+
+class locator(object):
+    button_formlogin    = "/html/body/div[1]/div/header/div[3]/div/button[2]"
+    form_username       = "/html/body/div[1]/div/header/div[3]/div/span[2]/form/div[2]/div[1]/input"
+    form_password       = "/html/body/div[1]/div/header/div[3]/div/span[2]/form/div[2]/div[2]/input"
+    button_login        = "/html/body/div[1]/div/header/div[3]/div/span[2]/form/div[4]/button"
+    button_avatar       = "/html/body/div[1]/div/header/div[3]/div/button[1]/div"
+    imageavatar         = "/html/body/div[1]/div/header/div[3]/div/button[1]/div"
+    button_logout       = "/html/body/div[1]/div/header/div[3]/div/span[2]/div/div/div[2]/div"
+    landing             = "/html/body/div[1]/div/span/div/div[1]/div/div/div[1]"
+    landing_getstar     = "/html/body/div[1]/div/span/div/div[1]/div/div/div[2]/button[1]"
+    slide               = "/html/body/div[1]/div/span/div/div[1]"
+
+    burger_button       = "/html/body/div[1]/div/header/div[1]/button"
+    side_navbar         = "/html/body/div[1]/div/header/span/div"
+    button_manage       = "/html/body/div[1]/div/header/span/div/div[1]/div[1]/a[2]/button"
+
+    manage_content      = "/html/body/div[1]/div/span/div/div[2]/div/div/div[1]"
+    button_setvip       = "/html/body/div[1]/div/span/div/div[2]/div/div/div[1]/div[1]/div[2]/button"
+    popup_vip           = "/html/body/div[2]/div/div"
+    form_vip_passkey    = "/html/body/div[2]/div/div/div[2]/form/h3/input[1]"
+    form_vip_clue       = "/html/body/div[2]/div/div/div[2]/form/h3/input[2]"
+    button_vip_save     = "/html/body/div[2]/div/div/div[2]/form/div/div[2]/button"
+    button_vip_unset    = "/html/body/div[2]/div/div/div[2]/form/div/div[1]/button"
+    icon_vip            = "/html/body/div[1]/div/span/div/div[2]/div/div/div[1]/div[1]/a/div/div"
+    button_vip_edit     = "/html/body/div[1]/div/span/div/div[2]/div/div/div[1]/div[1]/div[2]/button"
