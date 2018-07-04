@@ -1,6 +1,6 @@
 
 class locator(object):
-    button_formlogi   = "/html/body/div[1]/div/header/div[3]/div/button[2]"
+    button_formlogin    = "/html/body/div[1]/div/header/div[3]/div/button[2]"
     form_username       = "/html/body/div[1]/div/header/div[3]/div/span[2]/form/div[2]/div[1]/input"
     form_password       = "/html/body/div[1]/div/header/div[3]/div/span[2]/form/div[2]/div[2]/input"
     button_login        = "/html/body/div[1]/div/header/div[3]/div/span[2]/form/div[4]/button"
